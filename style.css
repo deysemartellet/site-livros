@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: block;
+    background-color: #512121;
+    padding: 25px;
+    color: white;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu {
+    display: inline-block;
+    background-color: #512121;
+    padding: 130px;
+}
+
+.body {
+    display: block;
+    margin: 0px 350px;
+    background-color: blueviolet;
+}
